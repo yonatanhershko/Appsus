@@ -1,6 +1,7 @@
-# App Sus
+# App Sus⭐
 
 **App Sus** is a versatile web application created as part of a coding academy course, featuring three main components: a Gmail clone, a Google Notes clone, and a Google Books clone. This project was built using ReactJS and CSS, emphasizing clean UI design and functionality.
+check it out here 👉 https://dolevy97.github.io/Dolev---Yonatan---Appsus/
 
 ## 🎨 Features
 
