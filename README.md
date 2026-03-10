@@ -1,8 +1,7 @@
 # App Sus⭐
 
-**App Sus** is a versatile web application created as part of a coding academy course, featuring three main components: a Gmail clone, a Google Notes clone, and a Google Books clone. This project was built using ReactJS and CSS, with a focus on clean UI design and functionality. It was completed in 92 hours,
-
-
+**App Sus** is a versatile web application created as part of a coding academy course, featuring three main components: a Gmail clone, a Google Notes clone, and a Google Books clone. This project was built using ReactJS and CSS, with a focus on clean UI design and functionality. It was completed in 92 hours.
+https://yonatanhershko.github.io/Appsus/#/
 ## 🎨 Features
 
 - **Gmail Clone**: A fully functional email client interface where users can compose, read, and manage their emails.
